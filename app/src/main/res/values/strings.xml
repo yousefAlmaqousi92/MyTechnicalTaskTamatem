@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tamatem</string>
+    <string name="back">Back</string>
+    <string name="refresh">Refresh</string>
+    <string name="forward">Forward</string>
+    <string name="open_browser">Open Browser</string>
+</resources>
